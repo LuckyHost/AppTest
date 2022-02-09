@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppTest</string>
+    <string name="findAutor">Поиск по автору</string>
+    <string name="find">Найти</string>
+</resources>
